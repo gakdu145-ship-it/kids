@@ -1,1 +1,21 @@
 .env
+
+# Mixkit originals may not be redistributed on their own; sfx/fetch-sfx.ps1 downloads them again.
+patch-puppy-bath-time/sfx/download/
+patch-puppy-bath-time/music/
+patch-puppy-bath-time/sfx/squeak.wav
+patch-puppy-bath-time/sfx/boing.wav
+patch-puppy-bath-time/sfx/mud_splat.wav
+patch-puppy-bath-time/sfx/lens_splat.wav
+patch-puppy-bath-time/sfx/splash.wav
+patch-puppy-bath-time/sfx/splash_big.wav
+patch-puppy-bath-time/sfx/whoosh.wav
+patch-puppy-bath-time/sfx/slide_up.wav
+patch-puppy-bath-time/sfx/amb_birds.wav
+
+# Only the final cut is kept in git (~60 MB each); earlier edits stay local.
+patch-puppy-bath-time/output/main_short_v1.mp4
+patch-puppy-bath-time/output/main_short_v2.mp4
+patch-puppy-bath-time/output/main_short_v3.mp4
+patch-puppy-bath-time/output/main_short_v4_sfx.mp4
+patch-puppy-bath-time/output/main_short_v5_music.mp4
