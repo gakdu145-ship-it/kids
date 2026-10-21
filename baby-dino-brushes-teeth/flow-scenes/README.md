@@ -23,6 +23,15 @@
 | scene6 | 헹구고 뱉기 | 틸트 다운 | baby_dino, bathroom |
 | scene7 | 반짝이는 이빨, 엄마 포옹 | 슬로우 줌 아웃 | baby_dino, mama_dino, bathroom |
 | scene8 | 엔딩 후렴, 손 흔들기 | 크레인 업 | baby_dino, mama_dino, sparkle, bathroom |
+| scene9 | 루프: 몰래 딸기, 세균 다시 등장 | 크래시 줌 인 | baby_dino, germs, bathroom |
+
+## 편집 순서 (훅 + 루프)
+
+scene2 → scene1 → scene3 → scene4 → scene5 → scene6 → scene7 → scene8 → scene9
+
+- 첫 프레임을 세균 장면(scene2)으로 시작해 첫 2초 안에 웃음 포인트를 줍니다.
+- scene9 끝(세균이 있는 입 클로즈업)이 scene2로 이어지게 하고, 페이드나 엔드카드는 넣지 않습니다.
+- 후렴 Short(15~20초): scene2 → scene4 → scene8
 
 재료 개수 제한에 걸리면 germs → sparkle 순으로 뺍니다. baby_dino와 배경은 빼지 않습니다.
 
@@ -33,4 +42,4 @@
 - 캐릭터는 한 번씩만 등장, 처음부터 끝까지 크기와 모습 유지
 - 장면당 카메라 무브 1개, 속도와 시작·끝 구도 명시
 
-8초 × 8개 = 약 64초. 편집에서 어색한 앞뒤를 잘라 60초로 맞춥니다.
+8초 × 9개 = 약 72초. 편집에서 어색한 앞뒤를 잘라 60초 안팎으로 맞춥니다.
