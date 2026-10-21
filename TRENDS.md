@@ -43,8 +43,8 @@
 
 | 편 | 주제 | 근거 |
 |---|---|---|
-| `hugo-hippo-bath-time` | 목욕 + 몸 이름 + 숫자 | Bath Song 형식, 매일 하는 루틴 |
-| `ellie-fruit-train` | 기차 + 과일 색깔 + 골고루 먹기 | 탈것·과일·색깔 상위 영상 3개를 하나로 결합 |
+| `patch-puppy-bath-time` | 목욕 + 몸 이름 + 숫자 | Bath Song 형식, 매일 하는 루틴. 캐릭터는 강아지 (Bluey·PAW Patrol) |
+| `lulu-fruit-train` | 기차 + 과일 색깔 + 골고루 먹기 | 탈것·과일·색깔 상위 영상 3개를 하나로 결합. 캐릭터는 토끼 (그림책 등장 2위) |
 | `panda-family-roll` | 동물 가족 노래 + 율동 + 숫자 | Baby Shark 형식 (가족 구성원별 한 소절) |
 | `baby-dino-brushes-teeth` | 양치 (기존) | 훅과 루프만 추가 |
 
@@ -54,9 +54,9 @@ v2 기획(손 씻기, 장난감 정리, 잠자리)은 상위 조회수 근거가
 
 | 동향 | 반영 |
 |---|---|
-| 2~3초 훅 | 첫 프레임에 바로 웃긴 장면 (물보라, 딸기 팝콘, 렌즈에 콩 부딪히기) |
+| 2~3초 훅 | 첫 프레임에 바로 웃긴 장면 (진흙 털기, 딸기 팝콘, 렌즈에 콩 부딪히기) |
 | 루프 | 마지막 장면이 첫 장면 그림으로 돌아감 |
-| 캐릭터 + 시그니처 동작 (D Billions) | Hippo Wiggle, Trunk Toot, Panda Roll과 캐릭터별 입버릇 |
+| 캐릭터 + 시그니처 동작 (D Billions) | Shake Shake, Hop Hop Toot, Panda Roll과 캐릭터별 입버릇 |
 | 상호작용 (Ms. Rachel) | 화면을 보고 묻고 기다리는 대사 |
 | 학습 요소 | 몸 이름, 색깔, 숫자, 가족 호칭 |
 | 영상 길이 | 50~60초 Short의 조회수가 가장 높다는 분석이 있어 메인은 60초. 반복 재생용 15~20초 후렴 버전도 같은 클립으로 편집 |
@@ -76,5 +76,8 @@ v2 기획(손 씻기, 장난감 정리, 잠자리)은 상위 조회수 근거가
 - [D Billions — Wikipedia](https://en.wikipedia.org/wiki/D_Billions)
 - [Why do babies love CoComelon — Romper](https://www.romper.com/parenting/why-do-babies-love-cocomelon-experts-explain-38055145)
 - [Viral hooks for YouTube Shorts — vidIQ](https://vidiq.com/blog/post/viral-video-hooks-youtube-shorts/)
+- [Bluey wins 2026 TOTY License of the Year — Señal News](https://senalnews.com/en/content/bluey-wins-2026-toty-license-of-the-year-award-for-the-second-straight-year)
+- [The 2026 Children's Lit Animal Rankings — 100 Scope Notes](https://100scopenotes.com/2026/05/19/the-2026-childrens-lit-animal-rankings/)
+- [Top 10 Cartoon Character Toy Trends 2026 — Union Source](https://www.unionsourcechina.com/cartoon-character-toy-trends-2026/)
 - [List of most-viewed YouTube videos — Wikipedia](https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos)
 - [How long should YouTube Shorts be in 2026 — Piktochart](https://piktochart.com/blog/how-long-youtube-shorts/)
