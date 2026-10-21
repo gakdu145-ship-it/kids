@@ -13,15 +13,15 @@
 | 장면 | 내용 | 카메라 무브 | 재료 이미지 |
 |---|---|---|---|
 | scene1 | 훅: 진흙 털기, 렌즈에 촥 | 고정 샷 (로우 앵글) | patch, backyard |
-| scene2 | Quackers 등장, 욕조로 풍덩 | 슬로우 푸시 인 | patch, quackers, bathroom |
-| scene3 | 머리, 귀 + 거품 탑 | 고정 샷 | patch, quackers, bathroom |
-| scene4 | 함께 해요: 배 어디 있지? | 슬로우 돌리 인 | patch, bathroom |
-| scene5 | 발 1~4 세기 | 틸트 다운 | patch, quackers, bathroom |
+| scene2 | Quackers 등장, 아빠가 욕조에 넣어 줌 | 슬로우 푸시 인 | patch, daddy_dog, quackers, bathroom |
+| scene3 | 머리, 귀 + 거품 탑 | 고정 샷 | patch, daddy_dog, quackers, bathroom |
+| scene4 | 함께 해요: 배 어디 있지? | 슬로우 돌리 인 | patch, daddy_dog, bathroom |
+| scene5 | 발 1~4 세기 | 틸트 다운 | patch, daddy_dog, quackers, bathroom |
 | scene6 | 헹구기 + Shake Shake 물벼락 | 아크 라이트 | patch, daddy_dog, bathroom |
 | scene7 | 엔딩 후렴 + Your turn | 크레인 업 | patch, daddy_dog, quackers, bathroom |
 | scene8 | 루프: 다시 진흙, 렌즈에 촥 | 트래킹 | patch, backyard |
 
-재료 개수 제한에 걸리면 quackers → daddy_dog 순으로 뺍니다. patch와 배경은 빼지 않습니다.
+재료 개수 제한에 걸리면 quackers를 뺍니다(프롬프트 설명으로 충분). patch, daddy_dog, 배경은 빼지 않습니다. 욕실 장면에서 아빠가 빠지면 아이 혼자 목욕하는 장면이 됩니다.
 
 ## 편집: 클립 하나로 2개 업로드
 
@@ -42,6 +42,7 @@
 
 - 같은 마당/욕실 설명과 배경 재료로 장소 고정
 - 고무 오리는 하나, Quackers는 손바닥 크기
+- 욕실 장면(scene2~7)에는 항상 아빠 강아지가 곁에 있음 (아이 혼자 목욕 금지)
 - Patch는 항상 오른쪽 눈 큰 캐러멜 반점 + 빨간 목걸이
 - 캐릭터는 한 번씩만 등장, 처음부터 끝까지 크기와 모습 유지
 - 장면당 카메라 무브 1개, 속도와 시작·끝 구도 명시
