@@ -13,7 +13,7 @@ Chuggy 굴뚝에서 "TOOT!" 하며 딸기가 팝콘처럼 퐁퐁. Lulu가 깡충
 
 **0:07–0:14 | 출발**
 Chuggy: "All aboard! Let's find a rainbow!"
-Lulu → 시그니처 **Hop Hop Toot** (깡충깡충 + 두 손 모아 "Toot toot!")
+Lulu가 운전석에서 몸을 통통 + 두 손 모아 "Toot toot!" (시그니처 **Hop Hop Toot**의 앉은 버전)
 
 **0:14–0:22 | 빨강**
 딸기밭 정거장. 딸기를 하나씩 실으며: "One, two, three! Red!"
@@ -29,7 +29,7 @@ Lulu → 시그니처 **Hop Hop Toot** (깡충깡충 + 두 손 모아 "Toot toot
 > Green, green broccoli, crunch crunch crunch!
 
 **0:37–0:44 | 보라**
-포도 덩굴 아래로 기차가 칙칙폭폭 지나가고, Lulu가 깡충 뛰어 포도를 땁니다.
+포도 덩굴 아래로 기차가 천천히 지나가고, Lulu가 운전석에서 손을 뻗어 포도를 땁니다.
 > Purple grapes, pop pop pop!
 > Chugga chugga, don't you stop!
 

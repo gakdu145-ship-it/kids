@@ -20,7 +20,7 @@ Patch가 욕조 가장자리에서 빼꼼 → 꼬리를 흔들며 풍덩.
 > Wash my head, wash my ears,
 > Splish, splash, woof woof!
 
-긴 귀에 거품이 쌓여 거품 토끼 귀가 됩니다. Patch가 키득.
+머리 위에 거품이 쌓여 높은 거품 탑이 됩니다. Patch가 키득.
 
 **0:22–0:29 | 함께 해요: 배**
 Patch (화면을 보며): "Where's your tummy?" (잠깐 멈춤) "There it is!"
@@ -43,4 +43,4 @@ Patch가 시그니처 **Shake Shake**! 물방울이 아빠 얼굴에 촥. 둘 �
 Patch (화면을 보며): "Your turn! Bath time!"
 
 **0:52–1:00 | 루프**
-깨끗해진 Patch가 마당으로 뛰어나가 진흙 웅덩이에 발라당 뒹굴고, 화면 앞에서 부르르 → 진흙이 렌즈에 촥 → 처음으로
+깨끗해진 Patch가 마당으로 뛰어나가 진흙 웅덩이에 풍덩 뛰어들고, 화면 앞에서 부르르 → 진흙이 렌즈에 촥 → 처음으로
