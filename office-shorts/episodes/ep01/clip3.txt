@@ -1,0 +1,10 @@
+Camera: medium two-shot at desk height, Kim seated, Park standing beside him with the stack of files on the desk. The camera never moves.
+Setting: the modern open-plan office from the background reference: rows of white desks with monitors, Kim's desk is the second one by the big window on the left, a round wall clock on the back wall, soft late-afternoon light.
+Characters: Kim, a 29-year-old Korean office worker, exactly like his reference image: slim, slightly messy short black hair, round black glasses, a white shirt under a navy blue cardigan, a blue lanyard with an ID card. Team leader Park, a Korean man in his mid 40s, exactly like his reference image: a light blue shirt under a gray suit vest, no tie, a high forehead, holding a silver tumbler. A translucent pale blue cartoon ghost of Kim floats just above his head at the start.
+Action:
+[00:00-00:03] From the first frame Park bursts out laughing and waves his hand.
+[00:03-00:05] Kim blinks, still frozen, and the ghost snaps back down into his body with a pop.
+[00:05-00:08] Kim slumps in relief, clutching his chest, while Park picks the files back up and laughs again.
+Dialogue: Park, tired friendly middle-aged man voice, laughing, in Korean: "농담이야~ 퇴근해!" Kim does not speak, his lips stay closed.
+Audio: hearty laughter, a cartoon pop, a long relieved sigh.
+Style: stylized 3D animated sitcom look like the reference images, slightly exaggerated cartoon expressions, not photorealistic, warm office colors, vertical 9:16. Fast-paced comedic timing, quick snappy movements, no slow motion. Exactly one Kim and one Park, no other people. No subtitles, no text, no background music.

@@ -1,0 +1,10 @@
+Camera: fixed medium shot of Kim at his desk, with the office aisle and the far end of the office visible behind him. The camera never moves.
+Setting: the modern open-plan office from the background reference: rows of white desks with monitors, Kim's desk is the second one by the big window on the left, a round wall clock on the back wall, soft late-afternoon light.
+Characters: Kim, a 29-year-old Korean office worker, exactly like his reference image: slim, slightly messy short black hair, round black glasses, a white shirt under a navy blue cardigan, a blue lanyard with an ID card. Team leader Park, a Korean man in his mid 40s, exactly like his reference image: a light blue shirt under a gray suit vest, no tie, a high forehead, holding a silver tumbler.
+Action:
+[00:00-00:02] From the very first frame Kim happily and quickly packs his laptop into his bag, humming, a plain white takeaway coffee cup with no logo on his desk.
+[00:02-00:04] He suddenly freezes mid-motion, eyes going wide, as soft footsteps are heard.
+[00:04-00:08] Far behind him, Park appears at the end of the aisle holding his tumbler and walks slowly but steadily toward Kim's desk. Kim stays frozen with a horrified face, not turning around.
+Dialogue: no one speaks. Kim's lips stay closed.
+Audio: from the first frame, a ticking clock and cheerful humming, then the humming stops, slow footsteps getting closer, a soft comedic horror sting.
+Style: stylized 3D animated sitcom look like the reference images, slightly exaggerated cartoon expressions, not photorealistic, warm office colors, vertical 9:16. Fast-paced comedic timing, quick snappy movements, no slow motion. Exactly one Kim and one Park, no other people. No subtitles, no text, no background music.
